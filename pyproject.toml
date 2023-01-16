@@ -5,9 +5,9 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "otio-svg-adapter"
+name = "otio-maya-sequencer-adapter"
 version = "1.0.0"
-description = "OpenTimelineIO SVG Adapter"
+description = "OpenTimelineIO Maya Sequencer Adapter"
 authors = [
   { name="Contributors to the OpenTimelineIO project", email="otio-discussion@lists.aswf.io" },
 ]
@@ -34,7 +34,7 @@ classifiers = [
     "Operating System :: OS Independent",
     "Natural Language :: English"
 ]
-keywords = ["film", "tv", "editing", "editorial", "edit", "non-linear", "svg", "time", "otio", "otio-adapter"]
+keywords = ["film", "tv", "editing", "editorial", "edit", "non-linear", "maya", "time", "otio", "otio-adapter"]
 
 [project.urls]
 Homepage = "https://github.com/OpenTimelineIO/otio-maya-sequencer-adapter"
