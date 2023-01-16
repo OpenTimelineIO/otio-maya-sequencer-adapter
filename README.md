@@ -1,7 +1,7 @@
 # OpenTimelineIO Maya Sequencer Adapter
 
 The `maya_sequencer` adapter is part of OpenTimelineIO's contrib adapter plugins.
-Set `${OTIO_MAYA_PYTHON_BIN}` to point the location of `mayapy` within the maya installation.
+Set the ${OTIO_MAYA_PYTHON_BIN} environment variable to point the location of `mayapy` within the maya installation.
 
 # License
 
