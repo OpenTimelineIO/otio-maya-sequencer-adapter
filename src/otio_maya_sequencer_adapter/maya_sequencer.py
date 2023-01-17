@@ -6,7 +6,7 @@
 import os
 import subprocess
 
-from .. import adapters
+from opentimelineio import adapters
 
 
 def write_to_file(input_otio, filepath):
